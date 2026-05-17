@@ -21,7 +21,7 @@
   - Conditional logic — if button pressed, play melody
   
   ## Part Of
-  This project is part of a wider learning path toward robotics and drone maintenance. Next projects include a toll gate system using ultrasonic sensor and servo motor, and a vehicle speedometer using dual HC-SR04 sensors and OLED display.
+  This project is part of a wider learning path toward robotics and drone maintenance which ive always been intereteted in. Next projects include a toll gate system using ultrasonic sensor and servo motor, and a vehicle speedometer using dual HC-SR04 sensors and OLED display.
   
   ## Background
-  Water infrastructure engineer at Northern Ireland Water, pivoting into robotics and drone systems. CABWI Level 2 and 3 qualified. CAA Flyer ID certified.
+  Water infrastructure engineer at Northern Ireland Water, pivoting into robotics, automation and embedded systems. CABWI Level 2 and 3 qualified. CAA Flyer ID certified. Mechatronics Engineering Foundations Level 3.
